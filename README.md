@@ -1,6 +1,6 @@
 ### Hi everyone, I'm Aditya Garimella! 👋
 
-#### Software development is my profession & teaching is my passion.
+#### Software development is my profession & problem solving is my passion.
 
 <!--
 
