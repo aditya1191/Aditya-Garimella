@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # I'm a Senior Software Engineer
 - 🔭 I’m currently pursuing Master's in Computer Science at University Of Massachusetts
 - 🌱 I’m currently learning Complex Algorithms, Machine Learning 
-- 👯 I’m looking to collaborate on Spring Boot, .net, Angular, React Projects
+- 👯 I’m looking to collaborate on Spring Boot, .net, Machine Learning, Angular, React Projects
 - 💬 Ask me about ... Java, Javascript, Python
 - 📫 How to reach me: ...
 - 😄 Pronouns: ... He/Him/His
